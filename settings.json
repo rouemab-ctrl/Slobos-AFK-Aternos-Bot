@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BALLS-dZNU.aternos.me",
-    "port": 46438,
+    "ip": "extreme.playserver.pro",
+    "port": 34448,
     "version": "",
     "try-creative": false
   },
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 451,
       "messages": [
@@ -42,7 +42,7 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
